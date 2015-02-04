@@ -1,0 +1,32 @@
+{
+  "name": "fxos-web-server",
+  "version": "0.0.7",
+  "homepage": "https://github.com/justindarc/fxos-web-server",
+  "authors": [
+    "Justin D'Arcangelo <justindarc@gmail.com>"
+  ],
+  "main": "dist/fxos-web-server.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "example",
+    "node_modules",
+    "src",
+    "test",
+    "bower.json",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "_release": "0.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.7",
+    "commit": "1298b94c71fc9221c36c6c8c72317b1d693c460f"
+  },
+  "_source": "git://github.com/justindarc/fxos-web-server.git",
+  "_target": "~0.0.7",
+  "_originalSource": "justindarc/fxos-web-server"
+}

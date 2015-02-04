@@ -1,0 +1,12 @@
+{
+  "name": "WebDrive",
+  "version": "1.0.0",
+  "homepage": "https://github.com/justindarc/WebDrive",
+  "authors": [
+    "Justin D'Arcangelo <justindarc@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fxos-web-server": "justindarc/fxos-web-server#~0.0.7"
+  }
+}

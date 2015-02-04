@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "WebDrive",
+  "description": "A Firefox OS app for storing files from a web browser",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/icon_128.png"
+  },
+  "type": "privileged",
+  "permissions": {
+    "device-storage:sdcard": { "access": "readwrite" },
+    "tcp-socket": {}
+  }
+}
